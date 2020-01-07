@@ -1,0 +1,17 @@
+E:\WorkSpace\YangTao\GrpcDemo\GrpcGreeterClient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.exe
+E:\WorkSpace\YangTao\GrpcDemo\GrpcGreeterClient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.deps.json
+E:\WorkSpace\YangTao\GrpcDemo\GrpcGreeterClient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.runtimeconfig.json
+E:\WorkSpace\YangTao\GrpcDemo\GrpcGreeterClient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.runtimeconfig.dev.json
+E:\WorkSpace\YangTao\GrpcDemo\GrpcGreeterClient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.dll
+E:\WorkSpace\YangTao\GrpcDemo\GrpcGreeterClient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.pdb
+E:\WorkSpace\YangTao\GrpcDemo\GrpcGreeterClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\WorkSpace\YangTao\GrpcDemo\GrpcGreeterClient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+E:\WorkSpace\YangTao\GrpcDemo\GrpcGreeterClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+E:\WorkSpace\YangTao\GrpcDemo\GrpcGreeterClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+E:\WorkSpace\YangTao\GrpcDemo\GrpcGreeterClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\WorkSpace\YangTao\GrpcDemo\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.csprojAssemblyReference.cache
+E:\WorkSpace\YangTao\GrpcDemo\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.AssemblyInfoInputs.cache
+E:\WorkSpace\YangTao\GrpcDemo\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.AssemblyInfo.cs
+E:\WorkSpace\YangTao\GrpcDemo\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.csproj.CopyComplete
+E:\WorkSpace\YangTao\GrpcDemo\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.dll
+E:\WorkSpace\YangTao\GrpcDemo\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.pdb
